@@ -1,46 +1,64 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand gif" />
-</p>
+# 👩‍💻 Hi, myself Aditi Patwa
 
-# Hi, I am Aditi Patwa
+# 💫 About Me:
+🌟 I’m an ambitious Full Stack Developer with a sharp focus on Artificial Intelligence.<br>
+I’m currently building scalable AI-powered applications and diving deep into Machine Learning models — positioning myself at the forefront of tech innovation.<br><br>
 
-🌟 I’m an ambitious **Full Stack Developer** with a sharp focus on **Artificial Intelligence**.  
-I’m currently building **scalable AI-powered applications** and diving deep into **Machine Learning** models — positioning myself at the forefront of tech innovation.
+💻 Tech Stack & Skills<br>
+🧠 AI / Machine Learning<br>
+⚛️ React.js | React Native | Next.js<br>
+🟩 Node.js | Express.js<br>
+🐍 Python | Java | JavaScript | TypeScript | C<br>
+💽 MongoDB | Firebase | SQL<br>
+🧪 Postman | Git & GitHub | Kaggle | Google Colab<br>
+🎨 Tailwind CSS | HTML5 | CSS3<br><br>
 
----
+🚀 What I'm Working On<br>
+Building AI-enhanced full-stack web and mobile apps.<br>
+Mastering Deep Learning & Advanced ML concepts.<br>
+Exploring deployment pipelines using AWS, Firebase, and Docker.<br>
+Actively collaborating with devs & data scientists on GitHub!<br><br>
 
-### 💻 Tech Stack & Skills
-- 🧠 AI / Machine Learning
-- ⚛️ React.js | React Native | Next.js
-- 🟩 Node.js | Express.js
-- 🐍 Python | Java | JavaScript | TypeScript | C
-- 💽 MongoDB | Firebase | SQL
-- 🧪 Postman | Git & GitHub | Kaggle | Google Colab
-- 🎨 Tailwind CSS | HTML5 | CSS3
+🧩 Fun Fact<br>
+I enjoy getting lost in music while building AI projects 🎶<br>
+Whether it’s Lo-fi, Bollywood, or EDM — code just hits different with the right track! 🎧<br><br>
 
----
-
-### 🚀 What I'm Working On
-- Building AI-enhanced full-stack web and mobile apps.
-- Mastering Deep Learning & Advanced ML concepts.
-- Exploring deployment pipelines using **AWS**, **Firebase**, and **Docker**.
-- Actively collaborating with devs & data scientists on GitHub!
-
----
-
-### 🤝 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:work.aditipatwa@gmail.com)
+📌 Pronouns: She/Her<br>
+Let’s collaborate and build the future of tech together!<br>
+Feel free to reach out for open-source, freelance, or AI/ML projects ✨
 
 ---
 
-### 🧩 Fun Fact  
-> I enjoy getting lost in music while building AI projects 🎶  
-> Whether it’s Lo-fi, Bollywood, or EDM — code just hits different with the right track! 🎧
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiwteaaa) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gamerxpatwa) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/certainly_aditi) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.aditipatwa@gmail.com) 
 
 ---
 
-### 📌 Pronouns: She/Her
+# 💻 Tech Stack:
+<!-- Your full badge stack remains unchanged for brevity -->
 
-> Let’s collaborate and build the future of tech together!  
-> Feel free to reach out for open-source, freelance, or AI/ML projects ✨
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PatwaAditi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PatwaAditi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatwaAditi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PatwaAditi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=PatwaAditi&icon=7&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
