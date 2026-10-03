@@ -1,64 +1,167 @@
-# 👩‍💻 Hi, myself Aditi Patwa
+# Hi, I'm Aditi Patwa
 
-# 💫 About Me:
-🌟 I’m an ambitious Full Stack Developer with a sharp focus on Artificial Intelligence.<br>
-I’m currently building scalable AI-powered applications and diving deep into Machine Learning models — positioning myself at the forefront of tech innovation.<br><br>
+### Full Stack Developer | Artificial Intelligence & Machine Learning
 
-💻 Tech Stack & Skills<br>
-🧠 AI / Machine Learning<br>
-⚛️ React.js | React Native | Next.js<br>
-🟩 Node.js | Express.js<br>
-🐍 Python | Java | JavaScript | TypeScript | C<br>
-💽 MongoDB | Firebase | SQL<br>
-🧪 Postman | Git & GitHub | Kaggle | Google Colab<br>
-🎨 Tailwind CSS | HTML5 | CSS3<br><br>
+I am a Full Stack Developer with a strong interest in Artificial Intelligence and Machine Learning. I build web and mobile applications with a focus on practical, scalable, and user-focused solutions.
 
-🚀 What I'm Working On<br>
-Building AI-enhanced full-stack web and mobile apps.<br>
-Mastering Deep Learning & Advanced ML concepts.<br>
-Exploring deployment pipelines using AWS, Firebase, and Docker.<br>
-Actively collaborating with devs & data scientists on GitHub!<br><br>
+I have completed my Diploma in Computer Engineering and am currently pursuing a Bachelor of Engineering (B.E.) in Information Technology at Thakur College of Engineering and Technology (TCET), Mumbai.
 
-🧩 Fun Fact<br>
-I enjoy getting lost in music while building AI projects 🎶<br>
-Whether it’s Lo-fi, Bollywood, or EDM — code just hits different with the right track! 🎧<br><br>
-
-📌 Pronouns: She/Her<br>
-Let’s collaborate and build the future of tech together!<br>
-Feel free to reach out for open-source, freelance, or AI/ML projects ✨
+My current areas of focus include AI-powered applications, Machine Learning, full-stack development, and cloud technologies.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiwteaaa) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gamerxpatwa) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/certainly_aditi) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.aditipatwa@gmail.com) 
+## Education
+
+**Bachelor of Engineering (B.E.) in Information Technology**
+Thakur College of Engineering and Technology (TCET), Mumbai
+Currently Pursuing
+
+**Diploma in Computer Engineering**
+Thakur Polytechnic
+Completed
 
 ---
 
-# 💻 Tech Stack:
-<!-- Your full badge stack remains unchanged for brevity -->
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Artificial Intelligence & Machine Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Python
+* Kaggle
+* Google Colab
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PatwaAditi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PatwaAditi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatwaAditi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## What I'm Working On
+
+* Building AI-powered full-stack web applications
+* Developing AI and Machine Learning projects
+* Exploring Deep Learning and advanced Machine Learning concepts
+* Building responsive web and mobile applications
+* Learning cloud deployment with AWS and Firebase
+* Working with Docker and modern development workflows
+* Collaborating on software development and open-source projects
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PatwaAditi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Full Stack Development
+* Software Engineering
+* Web Development
+* Mobile Application Development
+* Cloud Computing
+* Open Source
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## Projects
+
+I am currently working on projects involving:
+
+* AI-powered applications
+* Full-stack web applications
+* Machine Learning solutions
+* React-based applications
+* Mobile applications
+* Developer productivity tools
+
+You can explore my repositories below to see my latest work.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PatwaAditi&icon=7&color=10)](https://visitcount.itsvg.in)
+## Connect With Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="https://instagram.com/adiwteaaa">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/gamerxpatwa">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://x.com/certainly_aditi">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="mailto:work.aditipatwa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PatwaAditi&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+
+<br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=PatwaAditi&theme=dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatwaAditi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PatwaAditi&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=PatwaAditi&icon=7&color=10" />
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and contributing through technology.</i>
+</p>
